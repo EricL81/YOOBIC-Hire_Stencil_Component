@@ -1,3 +1,5 @@
+## Live Site URL: https://yoobic-hire-stencil-component.netlify.app/
+
 # YOOBIC London Dev Hiring Project 2
 
 ## The goal
